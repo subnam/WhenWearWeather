@@ -7,8 +7,6 @@
 [![Student Gallery](https://img.shields.io/badge/Part%20of-Student%20Gallery-9cf?logo=github)](https://education.github.com/pack/gallery#weatherapp)
 [![DevLibrary](https://img.shields.io/badge/Part%20of-DevLibrary-9cf?color=4285F4&logoColor=4285F4&logo=google)](https://devlibrary.withgoogle.com/products/android/repos/furkanaskin-Weatherapp)
 # WhenWearWeather
-![appicon](https://user-images.githubusercontent.com/22769589/68296145-f7305d80-00a4-11ea-9cbe-24b18222bfa9.png)
-
 WhenWearWeather is a weather forecast app, which uses API to retrieve weather data from the [OpenWeatherMap](https://openweathermap.org/forecast5) and to fetch places,cities, & counties from [Algolia Places](https://community.algolia.com/places/). The main goal of this app is to create a weather app that truly serves the user.
 
 <h2 id="Outputs">Outputs</h2>
