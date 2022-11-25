@@ -45,8 +45,6 @@ WhenWearWeather is a weather forecast app, which uses API to retrieve weather da
 <li><a href="https://github.com/google/truth">Truth</a></li>
 
 ## Architecture
-The app uses MVVM [Model-View-ViewModel] architecture to have a unidirectional flow of data, separation of concern, testability, and a lot more.
-
 ![Architecture](https://developer.android.com/topic/libraries/architecture/images/final-architecture.png)
 
 ## Dependency Graph
