@@ -40,10 +40,6 @@ WhenWearWeather is a weather forecast app, which uses API to retrieve weather da
 <li><a href="https://github.com/algolia/algoliasearch-client-android">Algolia Search API Client for Android</a></li>
 <li><a href="https://github.com/loopeer/shadow">Shadow</a></li>
 
-## Testing
-<li><a href="https://github.com/mockk/mockk">Mockk</a></li>
-<li><a href="https://github.com/google/truth">Truth</a></li>
-
 ## Architecture
 ![Architecture](https://developer.android.com/topic/libraries/architecture/images/final-architecture.png)
 
