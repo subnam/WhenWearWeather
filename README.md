@@ -22,7 +22,6 @@ WhenWearWeather is a weather forecast app, which uses API to retrieve weather da
 <li><a href="https://developer.android.com/topic/libraries/architecture/room">RoomDB</a></li>
 <li><a href="https://github.com/square/okhttp">OkHttp</a></li>
 <li><a href="https://github.com/square/moshi">Moshi</a></li>
-<li><a href="https://github.com/facebook/stetho">Stetho</a></li>
 <li><a href="https://github.com/square/picasso">Picasso</a></li>
 <li><a href="https://material.io/develop/android/docs/getting-started/">Material Design</a></li>
 <li><a href="https://github.com/algolia/algoliasearch-client-android">Algolia Search API Client for Android</a></li>
